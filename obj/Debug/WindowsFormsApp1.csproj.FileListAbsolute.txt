@@ -1,0 +1,16 @@
+C:\Users\315\Desktop\работы\Работа с элементом управления BindingNavigator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\315\Desktop\работы\Работа с элементом управления BindingNavigator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\315\Desktop\работы\Работа с элементом управления BindingNavigator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\315\Desktop\работы\Работа с элементом управления BindingNavigator\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\315\Desktop\работы\Работа с элементом управления BindingNavigator\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\315\Desktop\работы\Работа с элементом управления BindingNavigator\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\315\Desktop\работы\Работа с элементом управления BindingNavigator\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\315\Desktop\работы\Работа с элементом управления BindingNavigator\WindowsFormsApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\315\Desktop\работы\Работа с элементом управления BindingNavigator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\315\Desktop\работы\Работа с элементом управления BindingNavigator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\315\Desktop\работы\Работа с элементом управления BindingNavigator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\315\Desktop\работы\Работа с элементом управления BindingNavigator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\315\Desktop\работы\Работа с элементом управления BindingNavigator\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\315\Desktop\работы\Работа с элементом управления BindingNavigator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\315\Desktop\работы\Работа с элементом управления BindingNavigator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\315\Desktop\работы\Работа с элементом управления BindingNavigator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
